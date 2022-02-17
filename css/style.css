@@ -1,0 +1,72 @@
+body {
+    background-color: bisque;
+    font-family: 'Courier New', Courier, monospace;
+}
+    #container {
+        width: 95%;
+        margin: 10px auto;
+        text-align: center;
+
+    }
+
+    .title {
+        font-size: 4rem;
+        background-color: #44516f;
+        color: white;
+        border-radius: 0.8rem;
+        margin: 10px auto;
+        padding: 10px;
+    }
+
+    .sub-title {
+        font-size: 3rem;
+        color: rgb(201, 105, 105);
+        background-color: rgb(205, 206, 170);
+        border-radius: 2rem;
+        margin:15px 60px;
+    }
+
+    .foreword {
+        font-size: 22px;
+        margin: 10px 50px;
+    }
+
+    .foreword-text {
+        background-color: tomato;
+        color:rgb(223, 223, 77);
+        border: 10px salmon solid;
+    }
+
+    .foreword-text span {
+        font-size: 26px;
+    }
+
+    .text-1 {
+        font-size: 22px;
+        margin: 10px 60px;
+        padding: 10px;
+        border-radius: 3rem;
+        background-color: white;
+    }
+
+    .text-1 span {
+        color: red;
+    }
+
+    .list {
+        text-align: left;
+    }
+
+    a {
+        text-align: center;
+        font-size: 30px;
+        color:rgb(35, 35, 231);
+    }
+
+    .video {
+        background-color: thistle;
+        text-align: center;
+        margin: 10px auto;
+        padding: 10px 0;
+        border-radius: 0.8rem;
+    }
